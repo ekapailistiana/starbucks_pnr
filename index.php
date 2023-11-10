@@ -7,5 +7,7 @@
 </head>
 <body>
     <h2>RASYA LAGI GALAU</h2>
+    <h2>TIKA LAGI KIPASAN</h2>
+    <h2>JUPI LAGI BAHAGIA</h2>
 </body>
 </html>
