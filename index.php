@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sutik ayange mas apa</title>
+    <title>rasya galau</title>
 </head>
 <body>
     <h2>RASYA LAGI GALAU</h2>
